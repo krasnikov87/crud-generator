@@ -1,0 +1,12 @@
+{
+    "name": "alexandr/crud-generator",
+    "require": {
+        "sofa/eloquence": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Krasnikov Alexandr",
+            "email": "krasnikovrs@gmail.com"
+        }
+    ]
+}
